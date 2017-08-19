@@ -12,4 +12,4 @@ XBSC-Group: DisplayCore
 XBSC-Subgroup: Fonts
 Depends: libdisplaycore-core
 Provides: SUN8x16.h
-Description: 
+Description: SUN8x16 font for DisplayCore
